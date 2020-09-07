@@ -1,0 +1,16 @@
+<title>moyru jeans fabrica de jeans para ellas</title> nombre descriptivo para seo
+<meta name="description" content="fabrica de jeans para mujer"> seo para buscador
+<meta name="keywords" content="html, asp, js, meta, jeans, woman"> 
+Landpage para el usuario no salga de la web
+
+
+
+Con títulos h1 h2 h3 para seo modificados para mejor búsqueda
+<h3 class="temporada__titulo">
+<h1><span>moyru</span></h1>
+                 <span class="des">Web Devloper // Jeans Design</span>
+  <h1>Temporada de jeans woman 2020</h1>
+<h3 class="temporada__titulo"><a href="#" class="temporada__enlace">los mejpres jeans 2020
+   </a>
+      </h3>
+<h4 class="frase__texto">jeans argentinos para mujeres con estilo</h4>
