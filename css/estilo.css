@@ -8,7 +8,9 @@ padding: 0;
 box-sizing: border-box;
 font-family: 'Open Sans', sans-serif;
 
+
 }
+
 
 
 
@@ -261,7 +263,7 @@ section .content h1 {
     right: 40px;
     width: 40px;
     height: 40px;
-    !background: url(imagen/menu.png);
+    background: url(imagen/menu.png);
     filter: invert(1);
     font-size: 30px;
     cursor: pointer;
@@ -473,7 +475,7 @@ ul {
 }
 
 .contact-form form button {
-    background: ##ff2562;;
+    background: #ff2562;;
     border: 0;
     text-transform: uppercase;
     padding: 1em;
@@ -517,12 +519,19 @@ ul {
 }
 
 
+
+
+
+
 .about-section{
-    background: url(about.jpg) no-repeat left;
+    /* background: url(/imagen/about.jpg) no-repeat left;  */
+    background: url(../imagen/about.jpg) no-repeat left; 
     background-size: 55%;
     background-color: #fdfdfd;
     overflow: hidden;
     padding: 100px 0;
+    min-height: 100vh;
+    
 }
 
 .inner-container{
@@ -579,9 +588,6 @@ ul {
 }
 
 
-
- 
-}
 .content1{
   position: relative;
   margin: 130px auto;
@@ -602,7 +608,7 @@ ul {
   color: #202020;
 }
 footer{
-  position: fixed;
+  /* position: fixed; */
   bottom: 0px;
   width: 100%;
   background: #111;
